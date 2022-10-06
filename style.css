@@ -1,0 +1,26 @@
+body {
+    background-color: black !important;
+    color: aqua !important;
+    font-family: Orbitron;
+}
+
+.align-items-center {
+    margin-top: 98px;
+}
+
+span#hours {
+    font-size: 58px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.d-flex {
+    display: flex!important;
+    flex-direction: column;
+}
+
+span#date {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
